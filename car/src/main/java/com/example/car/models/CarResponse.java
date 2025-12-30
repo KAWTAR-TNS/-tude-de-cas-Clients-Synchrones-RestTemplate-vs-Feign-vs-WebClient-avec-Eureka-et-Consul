@@ -14,6 +14,5 @@ public class CarResponse {
     private Long id;
     private String brand;
     private String model;
-    private String matricue;
     private Client client;
 }
